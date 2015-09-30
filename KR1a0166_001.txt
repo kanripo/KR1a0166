@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易乾鑿度
-#+DATE: 2015-09-23 09:35:46
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:01:15.290294
+#+PROPERTY: ID KR1a0166
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1a0166_WYG_001-1a>¶
 欽定四庫全書¶
 　周易乾鑿度卷上　　　　漢　鄭康成　注¶
@@ -259,4 +261,3 @@
 文王在諸侯之位上困於紂故曰困於赤紱夫執中和¶
 順時變以全王徳通至羙矣故曰乃徐有説丘記諸彖¶
 曰困而不失其所亨也貞大人吉以剛中也¶
-
